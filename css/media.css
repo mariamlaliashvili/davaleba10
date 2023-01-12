@@ -1,0 +1,29 @@
+@media (max-width: 780px){
+    .item2{
+        display: none;
+    }
+    .item1{
+        width: 100%;
+        height: 150px;
+    }
+    .item4{
+    width: 200px;
+    height: 300px;
+    
+    }
+    .item5{
+        width: 200px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .item6{
+        width: 200px;
+
+    }
+    .item7{
+        margin-left: 200px;
+
+    }
+
+    
+}
